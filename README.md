@@ -1,11 +1,10 @@
-Yii2-start
+Unitaly
 ==========
 
 DEMO:
 -----
 
-**Frontend:** [http://yii2-start.find-freelancer.pro](http://yii2-start.find-freelancer.pro)  
-**Backend:** [http://yii2-start.find-freelancer.pro/backend/](http://yii2-start.find-freelancer.pro/backend/)  
+**Backend:** [http://unitaly/backend/]
 
 **Authentication:**  
 _Login:_ `admin`  
