@@ -1,0 +1,17 @@
+.alphabet ul{
+    list-style: none;
+}
+.alphabet li {
+    float: left;
+    padding: 10px 9px;
+}
+
+.alphabet-words ul{
+    float: left;
+    width: 207px;
+}
+
+div.required label:after {
+    content: " *";
+    color: red;
+}
